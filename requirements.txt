@@ -1,0 +1,4 @@
+aiohttp
+openai
+pyrogram
+python-dotenv
